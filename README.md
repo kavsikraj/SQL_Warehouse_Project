@@ -13,15 +13,16 @@ DrawIO for architecture and schema diagrams
 Notion for project planning and documentation
 
 📁 Project Structure
-datasets/      → Raw CSV files (ERP & CRM)
 
-docs/          → Diagrams, data catalogs, naming conventions
+datasets      → Raw CSV files (ERP & CRM)
 
-scripts/       → SQL ETL scripts (Bronze, Silver, Gold)
+docs          → Diagrams, data catalogs, naming conventions
 
-tests/         → Data quality & testing
+scripts       → SQL ETL scripts (Bronze, Silver, Gold)
 
-README.md      → Project overview
+tests         → Data quality & testing
+
+README.md     → Project overview
 
 🎯 Perfect For:
 Anyone looking to practice:
