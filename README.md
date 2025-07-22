@@ -14,9 +14,13 @@ Notion for project planning and documentation
 
 📁 Project Structure
 datasets/      → Raw CSV files (ERP & CRM)
+
 docs/          → Diagrams, data catalogs, naming conventions
+
 scripts/       → SQL ETL scripts (Bronze, Silver, Gold)
+
 tests/         → Data quality & testing
+
 README.md      → Project overview
 
 🎯 Perfect For:
